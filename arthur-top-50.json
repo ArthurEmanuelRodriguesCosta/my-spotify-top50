@@ -1,0 +1,417 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 141377
+    },
+    "genres" : [ "latin metal", "metal", "neo classical metal", "power metal", "progressive metal", "speed metal" ],
+    "href" : "https://api.spotify.com/v1/artists/7IAXZaLTb6nkJr8RmVPn5y",
+    "id" : "7IAXZaLTb6nkJr8RmVPn5y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8a4db555cb1c768304fd6bf1a0a8795a3c84d540",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/d771e2ab1c2abcf51cf16f5acb12d3c34ee1c81f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/e8bab2a73294ac559a578a54d90ff165c33faeea",
+      "width" : 160
+    } ],
+    "name" : "Angra",
+    "popularity" : 59,
+    "type" : "artist",
+    "uri" : "spotify:artist:7IAXZaLTb6nkJr8RmVPn5y"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 6319401
+    },
+    "genres" : [ "alternative metal", "alternative rock", "funk metal", "permanent wave", "post-grunge", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/9527e700b5c80aa67350d5de0da10a0aa754fcb1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/a7af6412632c81ebfb5e39495aa3dacc564cb22b",
+      "width" : 160
+    } ],
+    "name" : "Red Hot Chili Peppers",
+    "popularity" : 85,
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1759402
+    },
+    "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap rock" ],
+    "href" : "https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa",
+    "id" : "3TOqt5oJwL9BE2NG9MEwDa",
+    "images" : [ {
+      "height" : 999,
+      "url" : "https://i.scdn.co/image/d560c02ffe2a6077f7c3c615f94cd86bd404c481",
+      "width" : 1000
+    }, {
+      "height" : 639,
+      "url" : "https://i.scdn.co/image/5284890c76d869cdf24005d59ddd4b3fb4612bc5",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/1440191b5fcc31f5ad00c52eb0e90b642c1c6dc9",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2ddcdef6429b84db7848552dcfcfe17882d5588b",
+      "width" : 64
+    } ],
+    "name" : "Disturbed",
+    "popularity" : 78,
+    "type" : "artist",
+    "uri" : "spotify:artist:3TOqt5oJwL9BE2NG9MEwDa"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3485389
+    },
+    "genres" : [ "alternative rock", "modern rock", "permanent wave", "piano rock", "post-grunge", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+    "id" : "12Chz98pHFMPJEknJQMWvI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/19ac88c7aec1f68aa6e207aff29efa15d37336a7",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/7ad2128db73a2814a1a96498404a5d9aabb4c15c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/f026a6204c28907e43e833eaa1820f9b674295ca",
+      "width" : 160
+    } ],
+    "name" : "Muse",
+    "popularity" : 79,
+    "type" : "artist",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10636931
+    },
+    "genres" : [ "permanent wave", "pop", "pop christmas", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+    "id" : "4gzpq5DPGxSnKTe4SA8HAU",
+    "images" : [ {
+      "height" : 1000,
+      "url" : "https://i.scdn.co/image/143b0f286f76ece3a711f673d9ba00b8f499b2c0",
+      "width" : 1000
+    }, {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9815eb48540fa0d1c87ebd22289060729b1ab32a",
+      "width" : 640
+    }, {
+      "height" : 200,
+      "url" : "https://i.scdn.co/image/02c781539fca2176059bdeafd9fa903db5b9a4d0",
+      "width" : 200
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d82a669c531c06b703c7468a8981424581f14e91",
+      "width" : 64
+    } ],
+    "name" : "Coldplay",
+    "popularity" : 89,
+    "type" : "artist",
+    "uri" : "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 190859
+    },
+    "genres" : [ "brazilian gospel" ],
+    "href" : "https://api.spotify.com/v1/artists/0gO5Vbklho8yrBrUdHhuLH",
+    "id" : "0gO5Vbklho8yrBrUdHhuLH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/99b4dfc1d95898af5192ec2910457fce643d01ab",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/c2b18ac04901ec393d592191f4d36f11a0e9c8b3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/232896659c8cc4cb91a401aa10d5e014e0159b04",
+      "width" : 160
+    } ],
+    "name" : "Oficina G3",
+    "popularity" : 53,
+    "type" : "artist",
+    "uri" : "spotify:artist:0gO5Vbklho8yrBrUdHhuLH"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2THaGrUq7RPnj8Uax9zQ1m"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 31805
+    },
+    "genres" : [ "neo classical metal", "power metal", "progressive metal" ],
+    "href" : "https://api.spotify.com/v1/artists/2THaGrUq7RPnj8Uax9zQ1m",
+    "id" : "2THaGrUq7RPnj8Uax9zQ1m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dd03ca4fb91aefd0aedbe8f0ce48c17ae10c762e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4bf81db14cfec3bc551c4b09ac2caffee08225eb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/89aa84dffc27990cdc2bcc34bc74370dcbb264d8",
+      "width" : 64
+    } ],
+    "name" : "Shaman",
+    "popularity" : 39,
+    "type" : "artist",
+    "uri" : "spotify:artist:2THaGrUq7RPnj8Uax9zQ1m"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 307594
+    },
+    "genres" : [ "epicore", "scorecore", "soundtrack", "video game music" ],
+    "href" : "https://api.spotify.com/v1/artists/2qvP9yerCZCS0U1gZU8wYp",
+    "id" : "2qvP9yerCZCS0U1gZU8wYp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ce872b5ae495aad20f387e3b6a417500f58d00d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/d3876d716c284adc6eb7d2297d58524ac343728a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/13a701b394253cc61abbc54d61d4f20da252d28a",
+      "width" : 64
+    } ],
+    "name" : "Two Steps from Hell",
+    "popularity" : 69,
+    "type" : "artist",
+    "uri" : "spotify:artist:2qvP9yerCZCS0U1gZU8wYp"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 88687
+    },
+    "genres" : [ "epicore", "scorecore", "soundtrack", "video game music" ],
+    "href" : "https://api.spotify.com/v1/artists/6BF0bXbsdujMSMeFZBGcBq",
+    "id" : "6BF0bXbsdujMSMeFZBGcBq",
+    "images" : [ {
+      "height" : 968,
+      "url" : "https://i.scdn.co/image/428477061b058bc6dbaa292640ffaa80fbb0df00",
+      "width" : 648
+    }, {
+      "height" : 956,
+      "url" : "https://i.scdn.co/image/42779feb6f2f0a34155e60a4164391ac4dc28ce8",
+      "width" : 640
+    }, {
+      "height" : 299,
+      "url" : "https://i.scdn.co/image/9cb6b539f282918d4dc6c956fac3420e5075abb4",
+      "width" : 200
+    }, {
+      "height" : 96,
+      "url" : "https://i.scdn.co/image/43da48b56b7dee24939fb2d8e5eb96a0164a9102",
+      "width" : 64
+    } ],
+    "name" : "Thomas Bergersen",
+    "popularity" : 68,
+    "type" : "artist",
+    "uri" : "spotify:artist:6BF0bXbsdujMSMeFZBGcBq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7504442
+    },
+    "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap metal" ],
+    "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
+    "id" : "6XyY86QOPPrYVGvF9ch6wz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1685533969d5b68cbc630f991e873bd6467f1814",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/f759994946aa42851e5293083f472c96c1753105",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/0b0925b544b46d90a549f25a7f754ce6e59e6be2",
+      "width" : 160
+    } ],
+    "name" : "Linkin Park",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3EvzCyNmY3kbUkMawjsndF"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 9507
+    },
+    "genres" : [ "epicore", "scorecore" ],
+    "href" : "https://api.spotify.com/v1/artists/3EvzCyNmY3kbUkMawjsndF",
+    "id" : "3EvzCyNmY3kbUkMawjsndF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a96930490202c5de3bf3210c39f3a936f11d099f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/999e1dcacc2947d2dc56d4c390d0ed365bb89a3a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a4a20f0354180942b1a5f85d0df75954b0e47c1e",
+      "width" : 64
+    } ],
+    "name" : "Nick Phoenix",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:3EvzCyNmY3kbUkMawjsndF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1375726
+    },
+    "genres" : [ "aussietronica", "australian alternative rock", "australian dance", "downtempo", "pop" ],
+    "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
+    "id" : "6nxWCVXbOlEVRexSbLsTer",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d84f7b313ca9bafcefcf37d4e59a8265c7d3fff",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/72e229bba3cbb402a13117987ce1c42df4af10c6",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/57bdb801fbdf116402e339c0b0624f6df19d4a10",
+      "width" : 160
+    } ],
+    "name" : "Flume",
+    "popularity" : 77,
+    "type" : "artist",
+    "uri" : "spotify:artist:6nxWCVXbOlEVRexSbLsTer"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1w7TzlLDTjjFx5MFILkVr3"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 109097
+    },
+    "genres" : [ "metal", "neo classical metal", "power metal", "progressive metal", "speed metal", "symphonic metal" ],
+    "href" : "https://api.spotify.com/v1/artists/1w7TzlLDTjjFx5MFILkVr3",
+    "id" : "1w7TzlLDTjjFx5MFILkVr3",
+    "images" : [ {
+      "height" : 1179,
+      "url" : "https://i.scdn.co/image/6070f2a0b4b7ca8efe8f263cbbf765f438223adf",
+      "width" : 1000
+    }, {
+      "height" : 754,
+      "url" : "https://i.scdn.co/image/d108ea11bcf1bd67b02985b7c9b51d027b22189a",
+      "width" : 640
+    }, {
+      "height" : 236,
+      "url" : "https://i.scdn.co/image/def64f820fdffb3a732c91284367b4f935fb5bf6",
+      "width" : 200
+    }, {
+      "height" : 75,
+      "url" : "https://i.scdn.co/image/405391c61b7c1111f449fa479ee6ecc9abddb642",
+      "width" : 64
+    } ],
+    "name" : "Rhapsody",
+    "popularity" : 53,
+    "type" : "artist",
+    "uri" : "spotify:artist:1w7TzlLDTjjFx5MFILkVr3"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1592426
+    },
+    "genres" : [ "alternative metal", "german metal", "industrial", "industrial metal", "industrial rock", "neue deutsche harte", "nu metal", "rap metal" ],
+    "href" : "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+    "id" : "6wWVKhxIU2cEi0K81v7HvP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/822116868efffead1b4ffcc9332ee2d938db0278",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/9fc4b28936f294aa1481ce6bfe4532df782360f5",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/39a47762f86245226cadd0a75ffad9f147f00df4",
+      "width" : 160
+    } ],
+    "name" : "Rammstein",
+    "popularity" : 76,
+    "type" : "artist",
+    "uri" : "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+  } ],
+  "total" : 14,
+  "limit" : 20,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/artists?time_range=long_term",
+  "next" : null
+}
