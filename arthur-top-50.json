@@ -5,7 +5,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 141377
+      "total" : 141756
     },
     "genres" : [ "latin metal", "metal", "neo classical metal", "power metal", "progressive metal", "speed metal" ],
     "href" : "https://api.spotify.com/v1/artists/7IAXZaLTb6nkJr8RmVPn5y",
@@ -33,7 +33,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 6319401
+      "total" : 6337093
     },
     "genres" : [ "alternative metal", "alternative rock", "funk metal", "permanent wave", "post-grunge", "rock" ],
     "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
@@ -61,7 +61,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 1759402
+      "total" : 1763399
     },
     "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap rock" ],
     "href" : "https://api.spotify.com/v1/artists/3TOqt5oJwL9BE2NG9MEwDa",
@@ -93,7 +93,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 3485389
+      "total" : 3492441
     },
     "genres" : [ "alternative rock", "modern rock", "permanent wave", "piano rock", "post-grunge", "rock" ],
     "href" : "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
@@ -121,7 +121,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 10636931
+      "total" : 10662507
     },
     "genres" : [ "permanent wave", "pop", "pop christmas", "rock" ],
     "href" : "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
@@ -153,7 +153,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 190859
+      "total" : 191342
     },
     "genres" : [ "brazilian gospel" ],
     "href" : "https://api.spotify.com/v1/artists/0gO5Vbklho8yrBrUdHhuLH",
@@ -181,7 +181,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 31805
+      "total" : 31889
     },
     "genres" : [ "neo classical metal", "power metal", "progressive metal" ],
     "href" : "https://api.spotify.com/v1/artists/2THaGrUq7RPnj8Uax9zQ1m",
@@ -209,7 +209,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 307594
+      "total" : 308076
     },
     "genres" : [ "epicore", "scorecore", "soundtrack", "video game music" ],
     "href" : "https://api.spotify.com/v1/artists/2qvP9yerCZCS0U1gZU8wYp",
@@ -237,7 +237,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 88687
+      "total" : 88807
     },
     "genres" : [ "epicore", "scorecore", "soundtrack", "video game music" ],
     "href" : "https://api.spotify.com/v1/artists/6BF0bXbsdujMSMeFZBGcBq",
@@ -269,7 +269,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 7504442
+      "total" : 7528244
     },
     "genres" : [ "alternative metal", "nu metal", "post-grunge", "rap metal" ],
     "href" : "https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz",
@@ -297,7 +297,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 9507
+      "total" : 9520
     },
     "genres" : [ "epicore", "scorecore" ],
     "href" : "https://api.spotify.com/v1/artists/3EvzCyNmY3kbUkMawjsndF",
@@ -325,7 +325,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 1375726
+      "total" : 1377842
     },
     "genres" : [ "aussietronica", "australian alternative rock", "australian dance", "downtempo", "pop" ],
     "href" : "https://api.spotify.com/v1/artists/6nxWCVXbOlEVRexSbLsTer",
@@ -353,7 +353,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 109097
+      "total" : 109475
     },
     "genres" : [ "metal", "neo classical metal", "power metal", "progressive metal", "speed metal", "symphonic metal" ],
     "href" : "https://api.spotify.com/v1/artists/1w7TzlLDTjjFx5MFILkVr3",
@@ -385,7 +385,7 @@
     },
     "followers" : {
       "href" : null,
-      "total" : 1592426
+      "total" : 1596939
     },
     "genres" : [ "alternative metal", "german metal", "industrial", "industrial metal", "industrial rock", "neue deutsche harte", "nu metal", "rap metal" ],
     "href" : "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
@@ -407,11 +407,39 @@
     "popularity" : 76,
     "type" : "artist",
     "uri" : "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 13708
+    },
+    "genres" : [ "louvor" ],
+    "href" : "https://api.spotify.com/v1/artists/5kgQN9xPuWYGxVzsJb86Hx",
+    "id" : "5kgQN9xPuWYGxVzsJb86Hx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ed5c7825e0dd2d7d8e3a82974914f3dd849c6080",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/efe4930454cf0e1f843c3ed20b158a43f98f3d29",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/397612da588177cc15e1182c3e97c2124d9e9fb6",
+      "width" : 64
+    } ],
+    "name" : "João Alexandre",
+    "popularity" : 37,
+    "type" : "artist",
+    "uri" : "spotify:artist:5kgQN9xPuWYGxVzsJb86Hx"
   } ],
-  "total" : 14,
-  "limit" : 20,
+  "total" : 15,
+  "limit" : 50,
   "offset" : 0,
   "previous" : null,
-  "href" : "https://api.spotify.com/v1/me/top/artists?time_range=long_term",
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next" : null
 }
